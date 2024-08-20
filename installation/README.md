@@ -101,6 +101,6 @@ This means we are still not getting a response. To get it, you need to go throug
 
 At this point, we have successfully installed and configured BurpSuite and are ready to use it.
 
-Warning: When you finish using BurpSuite, remember to turn the proxy `OFF` in the Windows options. Otherwise, when you perform a search from the browser with BurpSuite closed, you will not get any response:
+**Warning**: When you finish using BurpSuite, remember to turn the proxy `OFF` in the Windows options. Otherwise, when you perform a search from the browser with BurpSuite closed, you will not get any response:
 
 <img src="18.png" width="850">
